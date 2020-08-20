@@ -1,5 +1,6 @@
   # Google_Coding_challenge_2  
 **The maximum subarray**
+
 '''
 You are given an array of N elements.You are also given an integer K.You can select any subarray of the given array,delete that subarray from the array and join the remaining array elements.you can perform this operation at most once.
 For example,if the array is [5,7,5,4,5,8,2] and you selcet [5,4,5] as the subarray that is deleted,then the resultant array becomes[5,7,8,2].
